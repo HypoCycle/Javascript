@@ -1,0 +1,16 @@
+{
+    "name": "hola-mundo",
+    "version": "1.0.0",
+    "description": "Este es mi primer proyecto de Javascript con Node",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "saludar": "Este es mi primer proyecto de Javascript con Node en el mejor Bootcamp del mundo",
+    },
+    "keywords": [
+      "holamundo",
+      "firstproject"
+    ],
+    "author": "Gorka Villar",
+    "license": "ISC"
+  }
